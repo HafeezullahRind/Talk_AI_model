@@ -1,4 +1,4 @@
-# E-Commerce Chatbot using NLTK
+# Talk-AI Chatbot using NLTK
 
 Following are the details about the processing behind the project:
 
